@@ -3,6 +3,8 @@
 ## About Project:-
 User-friendly Library Management System in Java with a graphical user interface (GUI) that enables efficient management of books, handling of issue and return transactions, fine tracking, and report generation
 <img width="694" height="369" alt="image" src="https://github.com/user-attachments/assets/9d4a6eef-5dc7-4990-bbd1-786e0a43a3f3" />
+<img width="692" height="351" alt="image" src="https://github.com/user-attachments/assets/9b9d5723-0f1a-4cda-939f-59f3e6896eba" />
+<img width="695" height="361" alt="image" src="https://github.com/user-attachments/assets/89ba93c2-5bd1-410d-af76-47555affc839" />
 
 ## Technologies Used:-
 Java, Swing, JDBC, Mysql
